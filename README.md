@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<!--
+<!-- 
 **YJZLuckyBoy/YJZLuckyBoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,19 +10,19 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
 
-![YJZLuckyBoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=blue-green)
+
+![YJZLuckyBoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=YJZLuckyBoy&show_icons=true&theme=blue-green)
 
 #### Top Repositories
 
 <a href="https://github.com/YJZLuckyBoy/liorf">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=liorf&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YJZLuckyBoy&repo=liorf&theme=chartreuse-dark" />
 </a>
 <a href="https://github.com/YJZLuckyBoy/liorf_localization">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=liorf_localization&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YJZLuckyBoy&repo=liorf_localization&theme=chartreuse-dark" />
 </a>
 <a href="https://github.com/YJZLuckyBoy/lviorf">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=lviorf&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YJZLuckyBoy&repo=lviorf&theme=chartreuse-dark" />
 </a>
